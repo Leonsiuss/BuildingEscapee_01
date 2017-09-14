@@ -1,0 +1,27 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-BuildingEscape_01-9963.dll"
+/IGNORE:4221
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\PCH.BuildingEscape_01.h.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\BuildingEscape_01.cpp.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\BuildingEscape_01GameModeBase.cpp.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\Grabberr.cpp.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\OpenDoor.cpp.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\PositionReport.cpp.obj"
+"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\BuildingEscape_01.generated.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\BuildingEscape_01\PCLaunch.rc.res"
+"C:\Program Files\Epic Games\UE_4.15\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Dano\Documents\Unreal Projects\04_BuildingEscape\BuildingEscape_01\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-BuildingEscape_01-9963.lib"
